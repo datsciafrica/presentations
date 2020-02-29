@@ -1,6 +1,8 @@
 # DSA Accra 2020
 
-Held at Ashesi University Campus
+Held at Ashesi University Campus.
+
+Event website: [http://www.datascienceafrica.org/dsa2019accra/](http://www.datascienceafrica.org/dsa2019accra/)
 
 ## Organizers
 
