@@ -41,9 +41,31 @@ Local Team
 ## Workshop
 
 ### Day 1
-- TBD
-- TBD
+- [Keynote 1- End-to-end Data Science](http://www.datascienceafrica.org/dsa2019accra/assets/end-to-end-keynote.pdf), Billy Okal
+- Breaking Cultural Stigma using A.I., Dorah Peter - Remote Presentation
+- Astronomy in Africa, Onuoha Obinna
+- Predictive Model for Survival of Paediatric Sickle Cell Anemia Patients using Data Mining Technique, Kehinde Williams
+- Use of machine learning techniques for alternative energy sources, Michael Nana Kameni
+- Keynote 2 - Digital Data and Health, Elaine Nsoesie
+- AI and Psychometrics, Johanness Wedenig, Rael Futerman - Remote presentation
+- [Learnings from the Computer Vision for Global Challenges (CV4GC) initiative](https://www.skamalas.com/resources/DSA_talk_on_CV4GC.pdf), Yannis Kalantidis
+- Keynote 3 - Innovation to Deployment: Machine Learning System Design, Neil Lawrence
+- Cocoanet - Cocoa Disease Detection, Emmanuel A. Brempong
+- UriSAF, Machine Learning-driven diagnosis of Uterine Tract Infections , Alvin Kabwama
+- Medical Big Data Analytics - An Artificial Intelligence Approach, Ronke Babatunde
+- Natural Language data collection, Seth Baah Kusi
+- Keynote 4 - IoT Deployments for Ecosystem Monitoring, Ciira Maina
+- DisARM Project, Remote Presentation
 
 ### Day 2
-- TBD
-- TBD
+- Keynote 5 - Counting Buildings in Satellite Imagery, John Quinn
+- Mapping Croplands in Uganda with Computer Vision, Nuruddeen Ibrahim Isa
+- Social media in Africa - Situation Analysis, Morine Amutorine
+- Eliciting Machine Learning Metrics, Sanmi Koyejo
+- [Keynote 6 - Growth Data Science](http://www.datascienceafrica.org/dsa2019accra/assets/DSA2019%20-%20Accra_%20Growth.pdf), Damon Civin
+- Global Challenges in Mechanism Design, Eric Sodomka
+- Bi-directional Matching and Hierarchical Attention based Subjective Question Marking using Deep Learning, Abebawu Eshetu
+- Keynote 7 - Global Pulse Labs, Martin Mubangizi
+- Panel Session: AI Ethics, Martin Mubangizi
+- minoHealth AI Labs, Darlington Ahiale Akogo
+- Keynote 8: Communicating Data Science Research to Policy Makers, Katie Bernhard
