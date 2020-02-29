@@ -18,18 +18,19 @@
   
   - Contacts: Martin Mubangizi, Morine Amutorine
   - Details: 
-	    The first innovation lab in Africa, Pulse Lab Kampala brings together
-	    data scientists, data engineers, partnership specialists, academics
-	    and technical experts to generate high impact data analysis tools to
-	    address development challenges. These innovative tools support UN partners
-	    and government in anticipating and responding to poverty, impacts of
-	    natural disasters, epidemics and food security by leveraging new sources
-	    of digital ‘Big Data’ (such as social media, mobile data, online
-	    information) and real-time analytics. Through partnerships, and in
-	    alliance with the Government, Pulse Lab Kampala acts as an ecosystem
-	    catalyst. In addition to keynoting regional conferences on data
-	    innovation, the Lab conducts learning sessions for UN partners and
-	    workshops for government and academic partners.
+  
+  	    The first innovation lab in Africa, Pulse Lab Kampala brings together
+  	    data scientists, data engineers, partnership specialists, academics
+  	    and technical experts to generate high impact data analysis tools to
+  	    address development challenges. These innovative tools support UN partners
+  	    and government in anticipating and responding to poverty, impacts of
+  	    natural disasters, epidemics and food security by leveraging new sources
+  	    of digital ‘Big Data’ (such as social media, mobile data, online
+  	    information) and real-time analytics. Through partnerships, and in
+  	    alliance with the Government, Pulse Lab Kampala acts as an ecosystem
+  	    catalyst. In addition to keynoting regional conferences on data
+  	    innovation, the Lab conducts learning sessions for UN partners and
+  	    workshops for government and academic partners.
  
 - [Centre for Data Science and Artificial Intelligence (DSAIL)](http://ciirawamaina.com), Dedan Kimathi University of Technology, Nyeri, Kenya
   
