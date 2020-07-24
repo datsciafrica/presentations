@@ -14,4 +14,4 @@ We keep a growing directory of practioners in Data Science and AI in Africa from
 You can find the full list at [Directory](directory/README.md)
 
 
-**NOTE** Should you note any error or point of correction with these materials, please feel free to file an issue or bebtter yet make a pull request with the necessary changes.
+**NOTE** Should you note any error or point of correction with these materials, please feel free to file an issue or better yet make a pull request with the necessary changes.
