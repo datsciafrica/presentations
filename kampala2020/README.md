@@ -31,6 +31,7 @@ Event website: [http://www.datascienceafrica.org/dsa2020kampala/](http://www.dat
 	- [Practicals/tutorial](https://github.com/Irenetema/DSA2020_ADTutorial)
 - [TAHMO](dsa-tahmo-v4), Tom Dietterich, Irene Temetelewo
 - [Introduction to Deep learning I](https://docs.google.com/presentation/d/1z-kJXndhi-nf7X9nmzc368pO6Zh3XlWOoXkQ_Y6XRzY/edit#slide=id.g35f391192_00), Andreas Damianou
+	- [Video](https://www.youtube.com/watch?v=tBTzVR6hO08&feature=youtu.be)
 - Introduction to Process Mining: Data Science in Action, Joyce Nabende
 - Introduction to Deep learning II, Ben Akera
 - [Deep learning labs](https://colab.research.google.com/drive/1-lN6ykm-dJGWuW3xk_fF6On8hdg02q8r), Andreas Damianou, Ben Akera
