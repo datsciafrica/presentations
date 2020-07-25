@@ -10,7 +10,7 @@ We keep these resources here in one collection for each of access.
 - [Addis Ababa 2019](addis2019/README.md)
 
 ## Practitioners Directory
-We keep a growing directory of practioners in Data Science and AI in Africa from past interactions at DSA events and our growing network.
+We keep a growing directory of practitioners in Data Science and AI in Africa from past interactions at DSA events and our growing network.
 You can find the full list at [Directory](directory/README.md)
 
 
