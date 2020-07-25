@@ -1,0 +1,8 @@
+### General ###
+#*.lock
+
+
+# Temp files.
+
+**/.DS_Store
+
