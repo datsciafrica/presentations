@@ -45,8 +45,8 @@ Event website: [http://www.datascienceafrica.org/dsa2020kampala/](http://www.dat
 - Introduction to NLP, Michael Melese
 
 ### Day 4
-- Social media data analysis
-- MD4SG
+- [Social media data analysis](morine_social_media_analysis.pdf), Morine Amutorine
+- Mechanism Design for Social Good, MG4SG Leadership
 - [Visualizing high dimensional data with PCA and tSNE](https://docs.google.com/presentation/d/1x1egn9DMP5naD5WcqBWedGKgeNS04iJFXUgXscrP-4Y/edit#slide=id.p), Philipp Berens
 	- [Labs](https://colab.research.google.com/drive/1XJoVYE1QkmawC3-DhBetvKS9lUX8Idn8?usp=sharing)
 - Data Engineering in Integrity/Security
@@ -60,5 +60,5 @@ Event website: [http://www.datascienceafrica.org/dsa2020kampala/](http://www.dat
 - TBD
 
 ### Day 2
-- TBD
+- Keynote: Monitoring Behavioral Risk Factors with Internet Search Data, Elaine Nsoesie
 - TBD
