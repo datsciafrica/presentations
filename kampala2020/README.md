@@ -56,9 +56,36 @@ Event website: [http://www.datascienceafrica.org/dsa2020kampala/](http://www.dat
 ## Workshop
 
 ### Day 1
-- TBD
-- TBD
+- Keynote: Towards Automated Poultry Diseases Diagnostics, Dina Machuve
+- Contributed Paper 1: Automatic screening tool for Pap smears - Jaafaru Jibrin
+- Contributed Paper 2: A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in Tomato Plants - Loyani Kisula Loyani
+- Contributed Paper 3: A platform for disease intervention planning - Charles M. Wachira
+- Keynote: TODO, Engineer Baino
+- Recruiting/Resume Writing
+- Keynote: TODO, Ernest Mwebaze
+- Contributed Paper 6: Student Counseling Chatbot - Tesfay Gebremeskel
+- Contributed Paper 7: Internet of Things Based Mobile Application for Environmental Conditions Monitoring in Poultry House with Machine Learning Algorithms - Beston Lufyagila
+- Contributed Paper 8: Artificial Intelligent E-extension Unmanned Aerial Vehicle (UAV) for Local Farmers - Adebayo Segun
+- Panel Discussion: AI for Agriculture, Food Production & Biodiversity
+- Deploying species identification models on camera traps and web application for automatic monitoring of animal species in conservation area, Jared Makario
+- Africapolis
+- Social Connectedness between African Countries, Mike Bailey
+- Lacuna Fund, Dina Machuve
+
 
 ### Day 2
 - Keynote: Monitoring Behavioral Risk Factors with Internet Search Data, Elaine Nsoesie
-- TBD
+- Contributed Paper 4: Increasing agricultural productivity in Africa using a
+discriminative deep learning model for farmland bird invasion identification and prevention system - Halleluyah Oluwatobi Aworinde
+- Contributed Paper 5: A deep learning-based detector for Brown Spot Disease in passion fruit plants - Andrew Katumba
+- Leveraging IoT and Machine Learning for Improved Monitoring of Water Resources, Jason Kabi
+- Contributed Paper 9: Polarity and Similarity Measures Towards Classifying Articles on Food Insecurity - Andrew Lukyamuzi
+- Contributed Paper 10: Geometry and Topology in Epidemiology Tracking - Colleen Farrelly
+- Keynote: Optimal Decision Making in Health-care, Megan Allen
+- Keynote: UN Pulse Lab Kampala, Martin Mubangizi, Paula Hidalgo-Sanchis
+- Data science opportunities in Health in Africa, Beatrice Kariuki
+- Panel: Data Science Africa Uganda Chapter
+- Facebook Hackathon Announcement, Chimdi
+- DSA Grant Announcement, Ciira Maina
+
+
