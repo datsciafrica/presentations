@@ -23,6 +23,7 @@ Event website: [http://www.datascienceafrica.org/dsa2020kampala/](http://www.dat
 	- [Classification and Regression Exercises](https://colab.research.google.com/drive/1nFWHZAWK-Sa8QZvFa-hlHvMyoqBddHAi), Mike Smith
 	- [Classification and Regression Exercise Solutions](https://colab.research.google.com/drive/1jEP1XpQ8l3JG3pBfMY1VcKSLB-3IF6r6), Mike Smith
 - [Machine learning systems](https://colab.research.google.com/drive/1GWgQoVt2oMsCjAcZJ2xQkUg4HEJypAbg?usp=sharing), Eric Meissner, Andrey Paleyes, Neil Lawrence
+	- Additional material: [https://github.com/mlatcl/dsa-ml-systems](https://github.com/mlatcl/dsa-ml-systems)
 - [Data Visualization](DSA2020-DataVizualisation), Claire Babirye, Dorothy Kabarozi, Hewitt Tusiime
 	- [Practicals](DSA2020VisualizationTutorial.zip)
 
